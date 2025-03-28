@@ -111,18 +111,21 @@ Me chamo César Severp tenho 36 anos e sou natural de São Paulo. Sou apaixonado
 
 ### 📊 Estatísticas 
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cesar-severo-programador&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-severo-programador&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-severo-programador&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+
+</p>
 
