@@ -1,24 +1,128 @@
-# Olá! Eu sou o César Severo
+# 👨‍💻 César Severo
 
-## 🚀 Sobre mim
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento web. Tenho conhecimentos em **HTML, CSS e JavaScript** e atualmente estou aprofundando meus estudos em **Node.js**. Meu objetivo é ingressar na área de programação como **Front-end** ou **Back-end**.
+**`Desenvolvedor FullStack`**
 
-## 💻 Tecnologias e Ferramentas
-- HTML5, CSS3, JavaScript (ES6+)
-- Node.js (em aprendizado)
-- Git e GitHub para controle de versão
+Me chamo César Severp tenho 36 anos e sou natural de São Paulo. Sou apaixonado por tecnologia e atualmente estou me aprofundando no desenvolvimento web. Tenho conhecimentos em HTML, CSS e JavaScript e estou em processo de aprendizado de Node.js. Meu objetivo é ingressar na área de programação, atuando tanto no Front-end quanto no Back-end, e continuar expandindo meus conhecimentos.
 
-## 🎯 Objetivos
-- Aprimorar minhas habilidades em **JavaScript** e **Node.js**
-- Criar projetos para fortalecer meu portfólio
-- Conseguir minha primeira oportunidade profissional como desenvolvedor
+<p align="left"> 
+    <a href="https://github.com/cesar-severo-programador?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/cesar-severo-programador?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/cesar-severo-programador?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/cesar-severo-programador?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-## 📫 Como me encontrar
-- GitHub: [github.com/seu-usuario](https://github.com/cesar-severo-programador
-)
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/cesar-severo-programador/)
-- Email: direito1boab@gmail.com
+---
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😃
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<br/>
+<br/>
+
+
+### 📊 Estatísticas 
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=cesar-severo-programador&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-severo-programador&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
 
