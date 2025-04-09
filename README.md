@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo César Severp tenho 36 anos e sou natural de São Paulo. Sou apaixonado por tecnologia e atualmente estou me aprofundando no desenvolvimento web. Tenho conhecimentos em HTML, CSS e JavaScript e estou em processo de aprendizado de Node.js. Meu objetivo é ingressar na área de programação, atuando tanto no Front-end quanto no Back-end, e continuar expandindo meus conhecimentos.
+Me chamo César Severo tenho 36 anos e sou natural de São Paulo. Sou apaixonado por tecnologia e atualmente estou me aprofundando no desenvolvimento web. Tenho conhecimentos em HTML, CSS e JavaScript e estou em processo de aprendizado de Node.js. Meu objetivo é ingressar na área de programação, atuando tanto no Front-end quanto no Back-end, e continuar expandindo meus conhecimentos.
 
 <p align="left"> 
     <a href="https://github.com/cesar-severo-programador?tab=repositories">
