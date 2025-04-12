@@ -122,7 +122,7 @@ Me chamo César Severo tenho 36 anos e sou natural de São Paulo. Sou apaixonado
   <img
     align="left"
     alt="GitHub Top Languages"
-    height="180"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-severo-programador&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
